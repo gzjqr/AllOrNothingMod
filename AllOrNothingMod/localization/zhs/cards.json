@@ -1,0 +1,8 @@
+{
+  "ALL_OR_NOTHING_MOD_CARD_ALL_OR_NOTHING_MOD_STRIKE.title": "模板打击",
+  "ALL_OR_NOTHING_MOD_CARD_ALL_OR_NOTHING_MOD_STRIKE.description": "造成 {Damage:diff()} 点伤害。",
+  "ALL_OR_NOTHING_MOD_CARD_ALL_OR_NOTHING_MOD_STRIKE.smartDescription": "造成 {Damage:diff()} 点伤害。",
+  "ALL_OR_NOTHING_MOD_CARD_ALL_OR_NOTHING_MOD_DEFEND.title": "模板防御",
+  "ALL_OR_NOTHING_MOD_CARD_ALL_OR_NOTHING_MOD_DEFEND.description": "获得 {Block:diff()} 点格挡。",
+  "ALL_OR_NOTHING_MOD_CARD_ALL_OR_NOTHING_MOD_DEFEND.smartDescription": "获得 {Block:diff()} 点格挡。"
+}

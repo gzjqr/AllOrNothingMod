@@ -1,0 +1,8 @@
+{
+  "ALL_OR_NOTHING_MOD_CARD_ALL_OR_NOTHING_MOD_STRIKE.title": "Template Strike",
+  "ALL_OR_NOTHING_MOD_CARD_ALL_OR_NOTHING_MOD_STRIKE.description": "Deal {Damage:diff()} damage.",
+  "ALL_OR_NOTHING_MOD_CARD_ALL_OR_NOTHING_MOD_STRIKE.smartDescription": "Deal {Damage:diff()} damage.",
+  "ALL_OR_NOTHING_MOD_CARD_ALL_OR_NOTHING_MOD_DEFEND.title": "Template Defend",
+  "ALL_OR_NOTHING_MOD_CARD_ALL_OR_NOTHING_MOD_DEFEND.description": "Gain {Block:diff()} Block.",
+  "ALL_OR_NOTHING_MOD_CARD_ALL_OR_NOTHING_MOD_DEFEND.smartDescription": "Gain {Block:diff()} Block."
+}

@@ -1,0 +1,21 @@
+{
+  "ALL_OR_NOTHING_MOD_CHARACTER_ALL_OR_NOTHING_MOD_CHARACTER.aromaPrinciple": "[sine][blue]A clean template is ready for a new run.[/blue][/sine]",
+  "ALL_OR_NOTHING_MOD_CHARACTER_ALL_OR_NOTHING_MOD_CHARACTER.banter.alive.endTurnPing": "Turn complete.",
+  "ALL_OR_NOTHING_MOD_CHARACTER_ALL_OR_NOTHING_MOD_CHARACTER.banter.dead.endTurnPing": "I am out for now.",
+  "ALL_OR_NOTHING_MOD_CHARACTER_ALL_OR_NOTHING_MOD_CHARACTER.cardsModifierDescription": "Template Character cards can now appear in rewards and shops.",
+  "ALL_OR_NOTHING_MOD_CHARACTER_ALL_OR_NOTHING_MOD_CHARACTER.cardsModifierTitle": "Template Cards",
+  "ALL_OR_NOTHING_MOD_CHARACTER_ALL_OR_NOTHING_MOD_CHARACTER.defeatMessage": "The template still needs a little tuning.",
+  "ALL_OR_NOTHING_MOD_CHARACTER_ALL_OR_NOTHING_MOD_CHARACTER.description": "A sample character used to verify the RitsuLib template project.\nReplace this text with your own character concept after copying the template.",
+  "ALL_OR_NOTHING_MOD_CHARACTER_ALL_OR_NOTHING_MOD_CHARACTER.eventDeathPrevention": "Template Character keeps going.",
+  "ALL_OR_NOTHING_MOD_CHARACTER_ALL_OR_NOTHING_MOD_CHARACTER.flavor": "A clean template waiting to become a new adventure.",
+  "ALL_OR_NOTHING_MOD_CHARACTER_ALL_OR_NOTHING_MOD_CHARACTER.goldMonologue": "This gold is enough to start testing.",
+  "ALL_OR_NOTHING_MOD_CHARACTER_ALL_OR_NOTHING_MOD_CHARACTER.possessiveAdjective": "their",
+  "ALL_OR_NOTHING_MOD_CHARACTER_ALL_OR_NOTHING_MOD_CHARACTER.pronounObject": "them",
+  "ALL_OR_NOTHING_MOD_CHARACTER_ALL_OR_NOTHING_MOD_CHARACTER.pronounPossessive": "theirs",
+  "ALL_OR_NOTHING_MOD_CHARACTER_ALL_OR_NOTHING_MOD_CHARACTER.pronounSubject": "they",
+  "ALL_OR_NOTHING_MOD_CHARACTER_ALL_OR_NOTHING_MOD_CHARACTER.selectMessage": "Template Character is ready.",
+  "ALL_OR_NOTHING_MOD_CHARACTER_ALL_OR_NOTHING_MOD_CHARACTER.title": "Template Character",
+  "ALL_OR_NOTHING_MOD_CHARACTER_ALL_OR_NOTHING_MOD_CHARACTER.titleObject": "Template Character",
+  "ALL_OR_NOTHING_MOD_CHARACTER_ALL_OR_NOTHING_MOD_CHARACTER.unlockText": "Complete a run as [pink]{Prerequisite}[/pink] to unlock this character.",
+  "ALL_OR_NOTHING_MOD_CHARACTER_ALL_OR_NOTHING_MOD_CHARACTER.victoryMessage": "Template verification complete."
+}
