@@ -15,9 +15,7 @@ namespace AllOrNothingMod.Hooks;
 public static class CardRewardRegistry
 {
     private static CardReward? _current;
-
     public static void SetCurrent(CardReward reward) => _current = reward;
-
     public static CardReward? GetCurrent() => _current;
 }
 
@@ -112,6 +110,8 @@ public static class CardRewardScreenPatch
         int totalToTake = options.Count;
         int taken = 0;
 
+        // 全部 N 张牌都通过 SetResult(0) 让原版处理，
+        // 这样每一次选择都会走原版同步流程（PlayerChoiceSynchronizer），联机不会出错。
         for (int i = 0; i < totalToTake; i++)
         {
             TaskCompletionSource<int?>? source = null;
@@ -147,7 +147,7 @@ public static class CardRewardScreenPatch
             await Task.Delay(400);
         }
 
-        // 最后一次“取消选择”，让原版 while 循环收尾
+        // 最后再 SetResult(null)，让原版 while 循环收尾
         for (int wait = 0; wait < 30; wait++)
         {
             var finalSource = CompletionSourceField?.GetValue(screen) as TaskCompletionSource<int?>;
